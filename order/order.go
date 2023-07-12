@@ -39,7 +39,7 @@ func (f Food) GetName() string {
 // Initmenu : init the menu
 func InitMenu() []Food {
 
-	bytes, err := os.ReadFile("/home/ccloud/src/training/dave/go_exercise_new/src/order/menu.json")
+	bytes, err := os.ReadFile("./menu.json")
 	if err != nil {
 		log.Fatal(err)
 	}
