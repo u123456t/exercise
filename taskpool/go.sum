@@ -1,4 +1,4 @@
-github.com/u123456t/exercise/chef v0.0.0-20230712080644-4b52a611f564 h1:2xTio0ae+7EzAh4c98lxT97mR3BkAVUHt2/j3daBlto=
-github.com/u123456t/exercise/chef v0.0.0-20230712080644-4b52a611f564/go.mod h1:AuGoCJLYiCsaku1zPz98NK+IpKL8Qqswv9iUGui/4uY=
-github.com/u123456t/exercise/order v0.0.0-20230712023810-1278708c3de7 h1:QSl0MuoMD/VTGDdU10HInuuOigeAlyFvAbwnLyU650U=
-github.com/u123456t/exercise/order v0.0.0-20230712023810-1278708c3de7/go.mod h1:2Mw87e9nKgFykta5gEVXPQh2OmAhzpdVfX3hqo07Viw=
+github.com/u123456t/exercise/chef v0.0.0-20230712080946-b133a86166f0 h1:eR1HpNski75J+hoWNaSDk2Xgz8U5ckDbhtYg1Ca24qA=
+github.com/u123456t/exercise/chef v0.0.0-20230712080946-b133a86166f0/go.mod h1:AuGoCJLYiCsaku1zPz98NK+IpKL8Qqswv9iUGui/4uY=
+github.com/u123456t/exercise/order v0.0.0-20230712080946-b133a86166f0 h1:93PfF7ijQq7KDK/ErYL91MCoHp+O9k7MSawGbfiIG9E=
+github.com/u123456t/exercise/order v0.0.0-20230712080946-b133a86166f0/go.mod h1:2Mw87e9nKgFykta5gEVXPQh2OmAhzpdVfX3hqo07Viw=
