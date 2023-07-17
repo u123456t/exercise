@@ -2,13 +2,11 @@ package taskpool
 
 import (
 	"fmt"
+	"github.com/u123456t/exercise/chef"
+	"github.com/u123456t/exercise/order"
 	"strconv"
 	"sync"
 	"time"
-
-	"github.com/u123456t/exercise/chef"
-
-	"github.com/u123456t/exercise/order"
 )
 
 // Task : struct for Task

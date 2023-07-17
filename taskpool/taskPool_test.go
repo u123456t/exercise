@@ -1,10 +1,9 @@
 package taskpool
 
 import (
+	"github.com/u123456t/exercise/order"
 	"testing"
 	"time"
-
-	"github.com/u123456t/exercise/order"
 )
 
 func TestGetRunningChefs(t *testing.T) {
